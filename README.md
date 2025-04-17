@@ -1,16 +1,24 @@
-## Hi there 👋
+# **Scooby-Itu Team** <h1>
+### 👋_Hello!_ We are the robotics team from SESI Itu, and we participate in FLL, OBR, and RoboCup Junior. We are high school students currently studying technical courses in Mechatronics and Electromechanics through SENAI. We are very excited to share our knowledge and experiences, and to connect with new teams and people who are interested in our work! <h3>
+#### Our Social medias <h4>
+[Instagram](https://www.instagram.com/sesi.scoobyitu/)
+##### Honors <h5>
+* 1ºPlace National OBR Teamwork 
+* 4ºPlace National OBR Onstage
+##### Competitions <h5>
+1. FLL
+2. Robocup Junior
+3. OBR (vitual)
+##### Languages<h5>
+~~~C++
+//This is a C++ code line.
+~~~
 
-<!--
-**SesiScooby-itu0/SesiScooby-itu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~~Python
+Print("This is a Python code line").
+~~~
 
-Here are some ideas to get you started:
+~~~Block based on Python and C++
+We use LEGO softwares to program some of our robots
+~~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
