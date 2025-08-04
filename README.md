@@ -3,12 +3,13 @@
 #### Our Social medias <h4>
 [Instagram](https://www.instagram.com/sesi.scoobyitu/)
 ##### Honors <h5>
-* 1ºPlace National OBR Teamwork 
+* 1ºPlace Americas RoboCup Onstage
+* 1ºPlace National OBR Teamwork
 * 4ºPlace National OBR Onstage
 ##### Competitions <h5>
 1. FLL
 2. Robocup Junior
-3. OBR (vitual)
+3. OBR
 ##### Languages<h5>
 ~~~C++
 //This is a C++ code line.
